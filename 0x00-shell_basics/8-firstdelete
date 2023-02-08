@@ -1,2 +1,3 @@
 #!/bin/bash
 rv /tmp/my_first_directory/betty
+rv /tmp/my_first_directory/betty
